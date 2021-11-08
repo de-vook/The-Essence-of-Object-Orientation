@@ -1,5 +1,6 @@
 # The-Essence-of-Object-Orientation
-> **&lt;객체지향의 사실과 오해> 조영호 저** 
+> 책<객체지향의 사실과 오해, 조영호 저>를 읽는 그룹 스터디입니다. **질의응답을 통해 참여하는 방식**으로 진행됩니다.   
+
 - **참여** : [@고사리](https://github.com/FIIIIN) [@namu](https://github.com/jsim27) [@nicho](https://github.com/Kim-EunsooSilver) [@lily](https://github.com/yeahg-dev) [@yeha](https://github.com/ye-ha) [@July](https://github.com/July911) [@Jiseong](https://github.com/yim2627) [@허황](https://github.com/hwangjeha) [@호댕](https://github.com/yanghojoon) 
 
 |  No.  | 목차                             | 날짜           | ✅  |
