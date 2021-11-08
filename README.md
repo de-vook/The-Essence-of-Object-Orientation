@@ -1,6 +1,6 @@
 # The-Essence-of-Object-Orientation
 > **&lt;객체지향의 사실과 오해> 조영호 저** 
-- **참여** : [@고사리](https://github.com/FIIIIN) [@namu](https://github.com/jsim27) [@nicho](https://github.com/Kim-EunsooSilver) [@lily](https://github.com/yeahg.dev) [@yeha](https://github.com/ye-ha) [@July](https://github.com/July911) [@Jiseong](https://github.com/yim2627) [@허황](https://github.com/hwangjeha) [@호댕](https://github.com/yanghojoon) 
+- **참여** : [@고사리](https://github.com/FIIIIN) [@namu](https://github.com/jsim27) [@nicho](https://github.com/Kim-EunsooSilver) [@lily](https://github.com/yeahg-dev) [@yeha](https://github.com/ye-ha) [@July](https://github.com/July911) [@Jiseong](https://github.com/yim2627) [@허황](https://github.com/hwangjeha) [@호댕](https://github.com/yanghojoon) 
 
 |  No.  | 목차                             | 날짜           | ✅  |
 | :---: | :------------------------------- | :------------- | :-: |
