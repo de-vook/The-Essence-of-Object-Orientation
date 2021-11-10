@@ -1,7 +1,7 @@
 ## 책 <객체지향의 사실과 오해, 조영호 저> 그룹 스터디
-**👫 참여** : [@고사리](https://github.com/FIIIIN) [@namu](https://github.com/jsim27) [@nicho](https://github.com/Kim-EunsooSilver) [@lily](https://github.com/yeahg-dev) [@yeha](https://github.com/ye-ha) [@July](https://github.com/July911) [@Jiseong](https://github.com/yim2627) [@허황](https://github.com/hwangjeha) [@호댕](https://github.com/yanghojoon) 
+👫  [@고사리](https://github.com/FIIIIN) [@namu](https://github.com/jsim27) [@nicho](https://github.com/Kim-EunsooSilver) [@lily](https://github.com/yeahg-dev) [@yeha](https://github.com/ye-ha) [@July](https://github.com/July911) [@Jiseong](https://github.com/yim2627) [@허황](https://github.com/hwangjeha) [@호댕](https://github.com/yanghojoon) 
 
-[**✍️ 스터디 진행 위키**](https://github.com/de-vook/The-Essence-of-Object-Orientation.wiki.git)
+✍️  [**스터디 진행 위키**](https://github.com/de-vook/The-Essence-of-Object-Orientation.wiki.git)
 
 |  No.  | 목차                             | 날짜           | ✅  |
 | :---: | :------------------------------- | :------------- | :-: |
