@@ -8,7 +8,7 @@
 | :---: | :------------------------------- | :-------------------------------: | :-------------------------------: | :-------------: | :-: |
 | **1** | **[협력하는 객체들의 공동체](01_협력하는_객체들의_공동체.md)** | [1회](https://github.com/de-vook/The-Essence-of-Object-Orientation/wiki/2021.11.13-1%ED%9A%8C) | [1회](https://github.com/de-vook/The-Essence-of-Object-Orientation/milestone/1) | **11/13 (토)** | ✅  |
 | **2** | **[이상한 나라의 객체](02_이상한_나라의_객체.md)** | [2회](https://github.com/de-vook/The-Essence-of-Object-Orientation/wiki/2021.11.17-2%ED%9A%8C) | [2회](https://github.com/de-vook/The-Essence-of-Object-Orientation/milestone/2) | **11/17 (수)** |  ✅  |
-| **3** | **[타입과 추상화](03_타입과_추상화.md)** | - | - | **11/24 (수)** |     |
+| **3** | **[타입과 추상화](03_타입과_추상화.md)** | [3회](https://github.com/de-vook/The-Essence-of-Object-Orientation/wiki/2021.11.24-3%ED%9A%8C) | [3회](https://github.com/de-vook/The-Essence-of-Object-Orientation/milestone/3) | **11/24 (수)** |     |
 | **4** | **[역할, 책임, 협력](04_역할,_책임,_협력.md)** | - | - | **12/08 (수)** |     |
 | **5** | **[책임과 메시지](05_책임과_메시지.md)** | - | - | **12/15 (수)** |     |
 | **6** | **[객체 지도](06_객체_지도.md)** | - | - | **12/22 (수)** |     |
