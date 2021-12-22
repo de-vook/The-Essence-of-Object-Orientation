@@ -11,7 +11,7 @@
 | **3** | **[타입과 추상화](03_타입과_추상화.md)** | [3회](https://github.com/de-vook/The-Essence-of-Object-Orientation/wiki/2021.11.24-3%ED%9A%8C) | [3회](https://github.com/de-vook/The-Essence-of-Object-Orientation/milestone/3) | **11/24 (수)** | ✅  |
 | **4** | **[역할, 책임, 협력](04_역할,_책임,_협력.md)** | [4회](https://github.com/de-vook/The-Essence-of-Object-Orientation/wiki/2021.12.08-4%ED%9A%8C) | [4회](https://github.com/de-vook/The-Essence-of-Object-Orientation/milestone/4) | **12/08 (수)** |  ✅ |
 | **5** | **[책임과 메시지](05_책임과_메시지.md)** | [5회](https://github.com/de-vook/The-Essence-of-Object-Orientation/wiki/2021.12.15-5%ED%9A%8C) | [5회](https://github.com/de-vook/The-Essence-of-Object-Orientation/milestone/5) | **12/15 (수)** | ✅ |
-| **6** | **[객체 지도](06_객체_지도.md)** | - | - | **12/22 (수)** |     |
+| **6** | **[객체 지도](06_객체_지도.md)** | [6회](https://github.com/de-vook/The-Essence-of-Object-Orientation/wiki/2021.12.22-6%ED%9A%8C) | [6회](https://github.com/de-vook/The-Essence-of-Object-Orientation/milestone/6) |  **12/22 (수)** | ✅ |
 | **7** | **[함께 모으기](07_함께_모으기.md)** | - | - | **12/29 (수)** |     |
 
 ### 🎙 진행 방식
